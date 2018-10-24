@@ -1,3 +1,14 @@
+# Deprecated
+
+This repo is decprecated in favor of [task_manager](http://github.com/Roscode/task_manager) because apparently
+having the project named tasks and having a resource named tasks makes the aliasing weird in such a way that
+phoenix generates the incorrect alias ordering by default, which was super annoying. So I renamed it task_manager
+and started over, but I figured I'd leave it around just in case
+
+
+
+
+
 # Tasks
 
 To start your Phoenix server:
